@@ -1,0 +1,42 @@
+C:\Users\Wally Z\Documents\Programming & Game Development\Programs\PingDashboard\PingDashboard\obj\Debug\PingDashboard.Resources.resources
+C:\Users\Wally Z\Documents\Programming & Game Development\Programs\PingDashboard\PingDashboard\obj\Debug\PingDashboard.vbproj.GenerateResource.Cache
+C:\Users\Wally Z\Documents\Programming & Game Development\Programs\PingDashboard\PingDashboard\obj\Debug\PingDashboard.PingDashboardForm.resources
+C:\Users\Wally Z\Documents\Programming & Game Development\Programs\PingDashboard\PingDashboard\obj\Debug\PingDashboard.StatusWebsiteLinksForm.resources
+C:\Users\Wally Z\Documents\Programming & Game Development\Programs\PingDashboard\PingDashboard\obj\Debug\PingDashboard.ToolInformationForm.resources
+C:\Users\Wally Z\Documents\Programming & Game Development\Programs\PingDashboard\PingDashboard\bin\Debug\Ping Tools By Wally.exe.config
+C:\Users\Wally Z\Documents\Programming & Game Development\Programs\PingDashboard\PingDashboard\bin\Debug\Ping Tools By Wally.exe.manifest
+C:\Users\Wally Z\Documents\Programming & Game Development\Programs\PingDashboard\PingDashboard\bin\Debug\Ping Tools By Wally.application
+C:\Users\Wally Z\Documents\Programming & Game Development\Programs\PingDashboard\PingDashboard\bin\Debug\Ping Tools By Wally.exe
+C:\Users\Wally Z\Documents\Programming & Game Development\Programs\PingDashboard\PingDashboard\bin\Debug\Ping Tools By Wally.pdb
+C:\Users\Wally Z\Documents\Programming & Game Development\Programs\PingDashboard\PingDashboard\bin\Debug\Ping Tools By Wally.xml
+C:\Users\Wally Z\Documents\Programming & Game Development\Programs\PingDashboard\PingDashboard\obj\Debug\Ping Tools By Wally.TrustInfo.xml
+C:\Users\Wally Z\Documents\Programming & Game Development\Programs\PingDashboard\PingDashboard\obj\Debug\Ping Tools By Wally.exe.manifest
+C:\Users\Wally Z\Documents\Programming & Game Development\Programs\PingDashboard\PingDashboard\obj\Debug\Ping Tools By Wally.application
+C:\Users\Wally Z\Documents\Programming & Game Development\Programs\PingDashboard\PingDashboard\obj\Debug\Ping Tools By Wally.exe
+C:\Users\Wally Z\Documents\Programming & Game Development\Programs\PingDashboard\PingDashboard\obj\Debug\Ping Tools By Wally.xml
+C:\Users\Wally Z\Documents\Programming & Game Development\Programs\PingDashboard\PingDashboard\obj\Debug\Ping Tools By Wally.pdb
+Z:\Programming and Custom Software\Ping Tools by Wally\PingToolsV1.3\PingDashboard\bin\Debug\Ping Tools By Wally.exe.config
+Z:\Programming and Custom Software\Ping Tools by Wally\PingToolsV1.3\PingDashboard\obj\Debug\Ping Tools By Wally.exe
+Z:\Programming and Custom Software\Ping Tools by Wally\PingToolsV1.3\PingDashboard\obj\Debug\Ping Tools By Wally.xml
+Z:\Programming and Custom Software\Ping Tools by Wally\PingToolsV1.3\PingDashboard\obj\Debug\Ping Tools By Wally.pdb
+Z:\Programming and Custom Software\Ping Tools by Wally\PingToolsV1.3.1\PingDashboard\bin\Debug\Ping Tools By Wally.exe.config
+Z:\Programming and Custom Software\Ping Tools by Wally\PingToolsV1.3.1\PingDashboard\obj\Debug\Ping Tools By Wally.exe
+Z:\Programming and Custom Software\Ping Tools by Wally\PingToolsV1.3.1\PingDashboard\obj\Debug\Ping Tools By Wally.xml
+Z:\Programming and Custom Software\Ping Tools by Wally\PingToolsV1.3.1\PingDashboard\obj\Debug\Ping Tools By Wally.pdb
+Z:\Programming and Custom Software\Ping Tools by Wally\PingToolsV1.3.1\PingDashboard\bin\Debug\Ping Tools By Wally.exe.manifest
+Z:\Programming and Custom Software\Ping Tools by Wally\PingToolsV1.3.1\PingDashboard\bin\Debug\Ping Tools By Wally.application
+Z:\Programming and Custom Software\Ping Tools by Wally\PingToolsV1.3.1\PingDashboard\bin\Debug\Ping Tools By Wally.exe
+Z:\Programming and Custom Software\Ping Tools by Wally\PingToolsV1.3.1\PingDashboard\bin\Debug\Ping Tools By Wally.pdb
+Z:\Programming and Custom Software\Ping Tools by Wally\PingToolsV1.3.1\PingDashboard\bin\Debug\Ping Tools By Wally.xml
+Z:\Programming and Custom Software\Ping Tools by Wally\PingToolsV1.3.1\PingDashboard\obj\Debug\PingDashboard.PingDashboardForm.resources
+Z:\Programming and Custom Software\Ping Tools by Wally\PingToolsV1.3.1\PingDashboard\obj\Debug\PingDashboard.StatusWebsiteLinksForm.resources
+Z:\Programming and Custom Software\Ping Tools by Wally\PingToolsV1.3.1\PingDashboard\obj\Debug\PingDashboard.ToolInformationForm.resources
+Z:\Programming and Custom Software\Ping Tools by Wally\PingToolsV1.3.1\PingDashboard\obj\Debug\PingDashboard.Resources.resources
+Z:\Programming and Custom Software\Ping Tools by Wally\PingToolsV1.3.1\PingDashboard\obj\Debug\PingDashboard.vbproj.GenerateResource.Cache
+Z:\Programming and Custom Software\Ping Tools by Wally\PingToolsV1.3.1\PingDashboard\obj\Debug\Ping Tools By Wally.TrustInfo.xml
+Z:\Programming and Custom Software\Ping Tools by Wally\PingToolsV1.3.1\PingDashboard\obj\Debug\Ping Tools By Wally.exe.manifest
+Z:\Programming and Custom Software\Ping Tools by Wally\PingToolsV1.3.1\PingDashboard\obj\Debug\Ping Tools By Wally.application
+\\192.168.1.15\8TB_General\Programming and Custom Software\Ping Tools by Wally\PingToolsV1.3.1\PingDashboard\bin\Debug\Ping Tools By Wally.exe.config
+\\192.168.1.15\8TB_General\Programming and Custom Software\Ping Tools by Wally\PingToolsV1.3.1\PingDashboard\obj\Debug\Ping Tools By Wally.exe
+\\192.168.1.15\8TB_General\Programming and Custom Software\Ping Tools by Wally\PingToolsV1.3.1\PingDashboard\obj\Debug\Ping Tools By Wally.xml
+\\192.168.1.15\8TB_General\Programming and Custom Software\Ping Tools by Wally\PingToolsV1.3.1\PingDashboard\obj\Debug\Ping Tools By Wally.pdb
